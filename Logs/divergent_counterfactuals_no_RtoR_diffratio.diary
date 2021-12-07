@@ -1,0 +1,384 @@
+Annual growth rates in applications (2000-2008) for W, A, B
+
+ans =
+
+  267.1667
+
+
+ans =
+
+  122.4000
+
+
+ans =
+
+   46.0500
+
+
+ans =
+
+   74.3000
+
+
+ans =
+
+  248.9752
+
+
+ans =
+
+  171.2724
+
+
+ans =
+
+  160.4396
+
+Number of annual black and hispanic applicants in 2015-17 absent RtoR effect
+
+predb_all_cfl =
+
+        2017
+
+
+predh_all_cfl =
+
+        3250
+
+Number of black and hispanic applicants post-2008 absent RtoR effect
+
+predb_vec_cfl =
+
+        4365        5208        6051
+
+
+predh_vec_cfl =
+
+        7032        8391        9750
+
+******Status Quo******
+
+white_admits =
+
+        2587
+
+
+white_LA_share =
+
+    0.3657
+
+
+black_admits =
+
+   695
+
+
+black_LA_share =
+
+    0.1309
+
+
+hispanic_admits =
+
+   649
+
+
+hispanic_LA_share =
+
+    0.1140
+
+
+asian_admits =
+
+        1245
+
+
+asian_LA_share =
+
+    0.1213
+
+
+b =
+
+    0.0293
+
+
+ans =
+
+   8.2718e-25
+
+******Counterfactual 1 (R to R correction)******
+
+white_admits =
+
+        2649
+
+
+white_LA_share =
+
+    0.3631
+
+
+black_admits =
+
+   689
+
+
+black_LA_share =
+
+    0.0901
+
+
+hispanic_admits =
+
+   626
+
+
+hispanic_LA_share =
+
+    0.0453
+
+
+asian_admits =
+
+        1199
+
+
+asian_LA_share =
+
+    0.0536
+
+
+b =
+
+    0.1269
+   -0.8738
+
+
+ans =
+
+   1.4996e-25
+
+******Counterfactual 2******
+LA bonus = 4.15
+
+b =
+
+    0.1078
+   -0.7229
+
+
+ans =
+
+   3.0305e-26
+
+******Counterfactual 2******
+LA bonus = 4.65
+
+b =
+
+    0.0891
+   -0.5837
+
+
+ans =
+
+   1.0800e-27
+
+******Counterfactual 2******
+LA bonus = 5.15
+
+b =
+
+    0.0707
+   -0.4539
+
+
+ans =
+
+   1.1360e-28
+
+******Counterfactual 2******
+LA bonus = 5.65
+
+b =
+
+    0.0526
+   -0.3320
+
+
+ans =
+
+   1.2326e-26
+
+******Counterfactual 2******
+LA bonus = 6.15
+
+b =
+
+    0.0349
+   -0.2167
+
+
+ans =
+
+   1.7057e-25
+
+******Counterfactual 2******
+LA bonus = 6.65
+
+b =
+
+    0.0175
+   -0.1070
+
+
+ans =
+
+   2.6537e-27
+
+******Counterfactual 2******
+LA bonus = 7.15
+
+b =
+
+    0.0004
+   -0.0021
+
+
+ans =
+
+   4.1369e-26
+
+******Counterfactual 2******
+LA bonus = 7.65
+
+b =
+
+   -0.0165
+    0.0986
+
+
+ans =
+
+   2.6708e-26
+
+******Counterfactual 2******
+LA bonus = 8.15
+
+b =
+
+    0.1397
+   -0.8544
+
+
+ans =
+
+   3.1871e-26
+
+******Counterfactual 3******
+LA bonus = 4.15
+
+b =
+
+    0.1225
+   -0.7023
+
+
+ans =
+
+   6.3898e-29
+
+******Counterfactual 3******
+LA bonus = 4.65
+
+b =
+
+    0.1056
+   -0.5617
+
+
+ans =
+
+   5.0487e-29
+
+******Counterfactual 3******
+LA bonus = 5.15
+
+b =
+
+    0.0889
+   -0.4303
+
+
+ans =
+
+   1.3521e-25
+
+******Counterfactual 3******
+LA bonus = 5.65
+
+b =
+
+    0.0725
+   -0.3067
+
+
+ans =
+
+   3.0615e-26
+
+******Counterfactual 3******
+LA bonus = 6.15
+
+b =
+
+    0.0564
+   -0.1894
+
+
+ans =
+
+   1.5134e-25
+
+******Counterfactual 3******
+LA bonus = 6.65
+
+b =
+
+    0.0406
+   -0.0775
+
+
+ans =
+
+   3.8654e-29
+
+******Counterfactual 3******
+LA bonus = 7.15
+
+b =
+
+    0.0250
+    0.0298
+
+
+ans =
+
+     0
+
+******Counterfactual 3******
+LA bonus = 7.65
+
+b =
+
+    0.0096
+    0.1332
+
+
+ans =
+
+   2.0195e-28
+
+******Counterfactual 3******
+LA bonus = 8.15

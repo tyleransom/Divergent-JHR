@@ -1,0 +1,326 @@
+******Status Quo******
+
+white_admits =
+
+        2587
+
+
+white_LA_share =
+
+    0.3657
+
+
+black_admits =
+
+   695
+
+
+black_LA_share =
+
+    0.1309
+
+
+hispanic_admits =
+
+   649
+
+
+hispanic_LA_share =
+
+    0.1140
+
+
+asian_admits =
+
+        1245
+
+
+asian_LA_share =
+
+    0.1213
+
+
+b =
+
+    0.0298
+
+
+ans =
+
+     0
+
+******Counterfactual 1******
+
+white_admits =
+
+        2651
+
+
+white_LA_share =
+
+    0.3631
+
+
+black_admits =
+
+   688
+
+
+black_LA_share =
+
+    0.0904
+
+
+hispanic_admits =
+
+   626
+
+
+hispanic_LA_share =
+
+    0.0453
+
+
+asian_admits =
+
+        1199
+
+
+asian_LA_share =
+
+    0.0536
+
+
+b =
+
+    0.1353
+   -0.9512
+
+
+ans =
+
+     0
+
+******Counterfactual 2******
+LA bonus = 4.15
+
+b =
+
+    0.1173
+   -0.8026
+
+
+ans =
+
+   1.4958e-24
+
+******Counterfactual 2******
+LA bonus = 4.65
+
+b =
+
+    0.0996
+   -0.6657
+
+
+ans =
+
+   3.5306e-25
+
+******Counterfactual 2******
+LA bonus = 5.15
+
+b =
+
+    0.0822
+   -0.5382
+
+
+ans =
+
+   4.2460e-26
+
+******Counterfactual 2******
+LA bonus = 5.65
+
+b =
+
+    0.0652
+   -0.4186
+
+
+ans =
+
+   3.8654e-29
+
+******Counterfactual 2******
+LA bonus = 6.15
+
+b =
+
+    0.0484
+   -0.3056
+
+
+ans =
+
+   3.6465e-26
+
+******Counterfactual 2******
+LA bonus = 6.65
+
+b =
+
+    0.0318
+   -0.1983
+
+
+ans =
+
+   7.8886e-31
+
+******Counterfactual 2******
+LA bonus = 7.15
+
+b =
+
+    0.0156
+   -0.0957
+
+
+ans =
+
+   2.6537e-27
+
+******Counterfactual 2******
+LA bonus = 7.65
+
+b =
+
+   -0.0004
+    0.0026
+
+
+ans =
+
+   3.1554e-30
+
+******Counterfactual 2******
+LA bonus = 8.15
+
+b =
+
+    0.1479
+   -0.9327
+
+
+ans =
+
+   7.0997e-28
+
+******Counterfactual 3******
+LA bonus = 4.15
+
+b =
+
+    0.1317
+   -0.7830
+
+
+ans =
+
+   1.0338e-25
+
+******Counterfactual 3******
+LA bonus = 4.65
+
+b =
+
+    0.1157
+   -0.6448
+
+
+ans =
+
+     0
+
+******Counterfactual 3******
+LA bonus = 5.15
+
+b =
+
+    0.1000
+   -0.5160
+
+
+ans =
+
+   2.8478e-28
+
+******Counterfactual 3******
+LA bonus = 5.65
+
+b =
+
+    0.0845
+   -0.3948
+
+
+ans =
+
+   7.0997e-30
+
+******Counterfactual 3******
+LA bonus = 6.15
+
+b =
+
+    0.0692
+   -0.2801
+
+
+ans =
+
+   7.5810e-28
+
+******Counterfactual 3******
+LA bonus = 6.65
+
+b =
+
+    0.0542
+   -0.1708
+
+
+ans =
+
+   5.3043e-27
+
+******Counterfactual 3******
+LA bonus = 7.15
+
+b =
+
+    0.0394
+   -0.0662
+
+
+ans =
+
+   8.6972e-27
+
+******Counterfactual 3******
+LA bonus = 7.65
+
+b =
+
+    0.0248
+    0.0345
+
+
+ans =
+
+     0
+
+******Counterfactual 3******
+LA bonus = 8.15

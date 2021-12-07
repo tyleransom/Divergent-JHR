@@ -1,0 +1,256 @@
+Annual growth rates in applications (2000-2008) for W, A, B
+
+ans =
+
+  267.1667
+
+
+ans =
+
+  122.4000
+
+
+ans =
+
+   46.0500
+
+
+ans =
+
+   74.3000
+
+
+ans =
+
+  248.9752
+
+
+ans =
+
+  171.2724
+
+
+ans =
+
+  160.4396
+
+Number of annual black and hispanic applicants in 2015-17 absent RtoR effect
+
+predb_all_cfl =
+
+        2017
+
+
+predh_all_cfl =
+
+        3250
+
+Number of black and hispanic applicants post-2008 absent RtoR effect
+
+predb_vec_cfl =
+
+        4365        5208        6051
+
+
+predh_vec_cfl =
+
+        7032        8391        9750
+
+******Status Quo******
+
+white_admits =
+
+        2587
+
+
+white_LA_share =
+
+    0.3657
+
+
+black_admits =
+
+   695
+
+
+black_LA_share =
+
+    0.1309
+
+
+hispanic_admits =
+
+   649
+
+
+hispanic_LA_share =
+
+    0.1140
+
+
+asian_admits =
+
+        1245
+
+
+asian_LA_share =
+
+    0.1213
+
+
+b =
+
+    0.0293
+
+
+ans =
+
+   8.2718e-25
+
+******Counterfactual 1 (R to R correction)******
+
+white_admits =
+
+        2649
+
+
+white_LA_share =
+
+    0.3631
+
+
+black_admits =
+
+   689
+
+
+black_LA_share =
+
+    0.0901
+
+
+hispanic_admits =
+
+   626
+
+
+hispanic_LA_share =
+
+    0.0453
+
+
+asian_admits =
+
+        1199
+
+
+asian_LA_share =
+
+    0.0536
+
+
+b =
+
+    0.1269
+   -0.8738
+
+
+ans =
+
+   1.4996e-25
+
+******Counterfactual 2 (R to R correction)******
+delta0 = 0.12689
+deltaL = -0.87382
+
+white_admits =
+
+        2427
+
+
+white_LA_share =
+
+    0.2374
+
+
+black_admits =
+
+   732
+
+
+black_LA_share =
+
+    0.0760
+
+
+hispanic_admits =
+
+   693
+
+
+hispanic_LA_share =
+
+    0.0656
+
+
+asian_admits =
+
+        1329
+
+
+asian_LA_share =
+
+    0.0716
+
+
+b =
+
+    0.1397
+   -0.8544
+
+
+ans =
+
+   3.1871e-26
+
+******Counterfactual 3 (R to R correction)******
+
+white_admits =
+
+        2463
+
+
+white_LA_share =
+
+    0.2395
+
+
+black_admits =
+
+   730
+
+
+black_LA_share =
+
+    0.0523
+
+
+hispanic_admits =
+
+   680
+
+
+hispanic_LA_share =
+
+    0.0258
+
+
+asian_admits =
+
+        1300
+
+
+asian_LA_share =
+
+    0.0314
+

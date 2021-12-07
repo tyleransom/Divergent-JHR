@@ -1,0 +1,196 @@
+******Status Quo******
+
+white_admits =
+
+        2587
+
+
+white_LA_share =
+
+    0.3657
+
+
+black_admits =
+
+   695
+
+
+black_LA_share =
+
+    0.1309
+
+
+hispanic_admits =
+
+   649
+
+
+hispanic_LA_share =
+
+    0.1140
+
+
+asian_admits =
+
+        1245
+
+
+asian_LA_share =
+
+    0.1213
+
+
+b =
+
+    0.0144
+
+
+ans =
+
+   8.2718e-25
+
+******Counterfactual 1******
+
+white_admits =
+
+        2649
+
+
+white_LA_share =
+
+    0.3619
+
+
+black_admits =
+
+   688
+
+
+black_LA_share =
+
+    0.0900
+
+
+hispanic_admits =
+
+   626
+
+
+hispanic_LA_share =
+
+    0.0451
+
+
+asian_admits =
+
+        1200
+
+
+asian_LA_share =
+
+    0.0533
+
+
+b =
+
+    0.0633
+   -0.5599
+
+
+ans =
+
+   1.9643e-25
+
+******Counterfactual 2******
+
+white_admits =
+
+        2414
+
+
+white_LA_share =
+
+    0.2266
+
+
+black_admits =
+
+   737
+
+
+black_LA_share =
+
+    0.0718
+
+
+hispanic_admits =
+
+   696
+
+
+hispanic_LA_share =
+
+    0.0623
+
+
+asian_admits =
+
+        1335
+
+
+asian_LA_share =
+
+    0.0684
+
+
+b =
+
+    0.0693
+   -0.5470
+
+
+ans =
+
+   1.5462e-28
+
+******Counterfactual 3******
+
+white_admits =
+
+        2450
+
+
+white_LA_share =
+
+    0.2287
+
+
+black_admits =
+
+   733
+
+
+black_LA_share =
+
+    0.0496
+
+
+hispanic_admits =
+
+   683
+
+
+hispanic_LA_share =
+
+    0.0244
+
+
+asian_admits =
+
+        1309
+
+
+asian_LA_share =
+
+    0.0299
+
